@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerCardView</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="add_image">add_image</string>
+    <string name="delete_image">delete_image</string>
+    <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_top">Top fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="lamps">
+        <item>Lamp Simple</item>
+        <item>RGB Lamp</item>
+        <item>Table Lamp</item>
+    </string-array>
+
+    <string-array name="rooms">
+        <item>Sleep room</item>
+        <item>Room</item>
+        <item>Dinner room</item>
+    </string-array>
+
+    <string-array name="scenaries">
+        <item>Morning</item>
+        <item>Cinema</item>
+        <item>Night</item>
+    </string-array>
+</resources>
